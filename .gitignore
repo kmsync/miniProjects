@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 /src/
 /.idea/
+/BMICalculator/BMICalculator.iml
 
 ### Eclipse ###
 .apt_generated
